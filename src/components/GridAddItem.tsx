@@ -1,9 +1,9 @@
 
 const GridAddItem = () => {
     return (
-        <div className="card ignoreDrag">
-            <div className="card-body d-flex justify-content-center align-items-center h3 m-0">
-                +
+        <div className="card add__image">
+            <div className="align-items-center h3 add__image__content">
+                Add Images<br/>+
             </div>
         </div>
     );
