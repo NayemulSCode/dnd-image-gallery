@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import GridAddItem from './GridAddItem'
 import GridItem from './GridItem'
 import { ReactSortable } from 'react-sortablejs';
